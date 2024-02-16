@@ -1,3 +1,3 @@
 # CSharpAssignments
 
-This is from local to git.
+This repo has C# Assignment 2 Program.cs file.
